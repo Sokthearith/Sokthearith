@@ -9,8 +9,6 @@
 ###
 
 ###
-
-<!-- WakaTime Stats -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=den99&layout=compact&
-###
+<!-- WakaTime Stats Card -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?den99
 
