@@ -6,5 +6,4 @@
 </div>
 
 ###
-<!-- WakaTime Stats -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=den99
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=den99&layout=compact&theme=
