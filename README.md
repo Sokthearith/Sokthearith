@@ -6,4 +6,4 @@
 </div>
 
 ###
-[![Sokthearith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sokthearith)](https://github.com/Sokthearith/github-readme-stats)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=den99&layout=compact&theme=
