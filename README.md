@@ -8,7 +8,3 @@
 
 ###
 
-###
-<!-- WakaTime Stats Card -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?den99
-
